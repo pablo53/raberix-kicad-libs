@@ -1,4 +1,4 @@
-(module D2 (layer F.Cu) (tedit 60D66D1D)
+(module D2 (layer F.Cu) (tedit 60D7B9D9)
   (descr "Diode 3 pas")
   (tags "DIODE DEV")
   (fp_text reference REF** (at 0 1.905) (layer F.SilkS)
@@ -13,7 +13,7 @@
   (fp_line (start -0.635 -0.635) (end -0.635 0.635) (layer F.SilkS) (width 0.1524))
   (fp_line (start -0.635 0.635) (end 0.635 0) (layer F.SilkS) (width 0.1524))
   (fp_line (start 0.635 0) (end -0.635 -0.635) (layer F.SilkS) (width 0.1524))
-  (pad 1 thru_hole rect (at 2.54 0) (size 2.032 2.032) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole circle (at 2.54 0) (size 2.032 2.032) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at -2.54 0) (size 2.032 2.032) (drill 0.8) (layers *.Cu *.Mask F.SilkS))
   (model Discret.3dshapes/D3.wrl
     (at (xyz 0 0 0))
