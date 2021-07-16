@@ -1,4 +1,4 @@
-(module DIP-14 (layer F.Cu) (tedit 60D659E8)
+(module DIP-14 (layer F.Cu) (tedit 60F1AC25)
   (descr "28-lead dip package, row spacing 7.62 mm (300 mils), longer pads")
   (tags "dil dip 2.54 300")
   (fp_text reference REF** (at 3.429 -4.953) (layer F.SilkS)
