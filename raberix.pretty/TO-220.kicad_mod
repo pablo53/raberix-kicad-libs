@@ -1,4 +1,4 @@
-(module TO-220 (layer F.Cu) (tedit 60D6679D)
+(module TO-220 (layer F.Cu) (tedit 60FF15A7)
   (descr "TO-220, Neutral, Horizontal, Large Pads,")
   (tags "TO-220, Neutral, Horizontal, Large Pads,")
   (fp_text reference REF** (at 0 -21.59) (layer F.SilkS)
